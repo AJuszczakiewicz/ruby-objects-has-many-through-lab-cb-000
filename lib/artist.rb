@@ -1,4 +1,5 @@
 class Artist
+  attr_reader :name
   @@all = Array.new
 
   def initialize(name)
