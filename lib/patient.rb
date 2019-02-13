@@ -1,3 +1,3 @@
 class Patient
 
-end  
+end
